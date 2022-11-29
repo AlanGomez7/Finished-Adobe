@@ -1,0 +1,229 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.adobe-creative-logo{
+  height: 35rem;
+  width: 49rem;
+  position: absolute;
+  right: 0;
+  top: 110px;
+}
+
+
+.body-images{
+  height: 500px;
+  width: 1000px;
+  }
+  .cards{
+    /* height: 550px; */
+    width: 461px;
+    background-color: bisque;
+    display: inline-block;
+    margin: 20px;
+  }
+  
+  #card1{
+    background-color: red;
+    margin-left: 72px;    
+  }
+  
+  #card2{
+    background-image : linear-gradient(bisque, red  );
+    margin-left: 20px;
+    padding: 30px;
+  }
+  
+  #card3{
+    background-image : red;
+  }
+
+  .code1{
+    margin-top: 35px;
+    background-color: rgb(84, 84, 179);
+    width: 100%;
+    height: 500px;
+    padding-top: 80px;
+  }
+  
+  .foot-image{
+    /* height: 400px; */
+    width: 100%;
+    
+  }
+  
+  
+  h1{
+    color: white;
+    font-size: 2.375rem;
+    line-height: 1.375;
+    display: inline-block;
+    margin-left: 200px;
+  }
+  
+  h2{
+    color: white;
+    font-size: 2.375rem;
+    line-height: 1.375;
+    display: inline-block;
+    margin-left: 200px;
+  }
+  
+  
+  h3{
+    color: red;
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 100px;
+    color: white;
+  }
+
+  .imogi{
+    width: 50%;
+    height: 56%;    
+    position: absolute;
+    right: 0;
+    margin-top: -290px;
+  }
+  
+  .logo{
+    height:75px;
+    width: 134px;
+  }
+  
+  .main-image{
+    background-color: black;
+    height: 700px;
+    width: 100%;
+    margin-top: 35px;
+  }
+  
+  .nav {
+    height: 50px;
+    width: 100%;
+    background-color: white;
+    position: relative;
+    padding:0 100px;
+    margin-bottom: 2px;
+    
+  }
+  
+  .nav > .nav-header {
+    display: inline;
+  }
+  
+  .nav > .nav-header > .nav-title {
+    display: inline-block;
+    font-size: 22px;
+    color: #fff;
+    padding: 10px 10px 10px 10px;
+  }
+  
+  .nav > .nav-btn {
+    display: none;
+  }
+  
+  .nav > .nav-links {
+    display: inline;
+    float: right;
+    font-size: 14px;
+    margin-top: 16px;
+  }
+
+  .nav > .nav-links > a {
+    display: inline-block;
+    padding: 13px 10px 13px 10px;
+    text-decoration: none;
+    color:black;
+  }
+  
+  .nav > .nav-links > a:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 100px;
+  }
+  
+  .nav > #nav-check {
+    display: none;
+  }
+  
+  
+  p{
+  color: red;
+  margin-left: 200px;
+  color: white;
+  } 
+
+  .section-div{
+    margin-top: 100px;
+    padding:0px 0px 0 540px
+  }
+
+  #section1{
+    background-color: gainsboro;
+  }
+
+  .section-1-image{
+    width: 62%;
+    padding: 1.5%;
+    margin-left: 4%;
+  }
+
+  .section-2-image{
+    width: 30%;
+    padding: 1%;
+  }
+
+  footer{
+    padding-top: 10px;
+    width: 100%;
+    height: 25%;
+    background-color: rgba(239, 229, 229, 0.5);
+  }
+
+  .footer-icons{
+    width: 30px;
+    height: 30px;
+    margin: 0 70px 0 70px;
+    /* margin-left: 50%; */
+  }
+
+  .facebook{
+    margin-left: 39%;
+  }
+
+  hr{
+   background-color: white;
+   width: 70%;
+  }
+  #copyright{
+    color: black;
+    text-align: center;
+    padding-right: 165px;
+  }
+
+  li{
+    color: black;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin: 0px 50px 0px 50px;
+  }
+
+  li:hover{
+    color: gainsboro;
+  }
+
+  a{
+    color: black;
+    text-decoration: none;
+  }
+
+  ul {
+    padding-left:191px;
+    display: inline-block;
+    list-style-type: none;
+}
